@@ -28,7 +28,7 @@ I've been given access to the complete data from their most recent animal study.
 
 * Calculated the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 
-* Looked across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Included these observations at the top of my notebook.
+* Looked across all previously generated figures and tables and wrote observations that I made from this data. Included these observations at the top of my notebook.
 
 
 ### Used:
